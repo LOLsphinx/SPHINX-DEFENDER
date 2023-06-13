@@ -17,7 +17,7 @@ start "%userprofile%/PATH/SPHINXATTACK DEFENDER.exe"
 
 ## Screenshots
 
-![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://ibb.co/bB5t5s4))
+![App Screenshot]([https://ibb.co/bB5t5s4])
 
 
 ## Authors
