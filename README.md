@@ -1,10 +1,29 @@
+
 # SPHINX-DEFENDER
-Sphinx made a executable windows defender attacker to destroy Windows Defender.
-<---------------------------------------------------------------------------------->
 
-## I basically change something in regegit!
+Sphinx made a executable for attacking Windows Defender to destroy Windows Defender.
 
-[+] Just simply run { SPHINXATTACK DEFENDER.exe } [+]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumawatlalit912&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/kumawatlalit912/github-readme-stats)
+## FAQ
 
+#### How to Run this?
+
+
+```
+start "%userprofile%/PATH/SPHINXATTACK DEFENDER.exe"
+```
+
+
+
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+
+## Authors
+
+- [Sphinx](https://www.github.com/LOLsphinx)
+
+## License
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/LOLsphinx/SPHINX-DEFENDER/blob/main/LICENSE)
