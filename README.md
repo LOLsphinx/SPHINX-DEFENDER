@@ -17,6 +17,12 @@ Sphinx is a future-oriented individual with a strong focus on cyber disruption. 
 start "%userprofile%/PATH/SPHINXATTACK DEFENDER.exe"
 ```
 
+#### How to get back the Windows Defender Normally?
+
+```
+start "%userprofile%/PATH/SPHINX FIX DEFENDER.exe"
+```
+
 
 
 ## Screenshots
